@@ -1,0 +1,4 @@
+In Python you can learn str
+In Python you can learn dict
+In Python you can learn tuple
+In Python you can learn list
